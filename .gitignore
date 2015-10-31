@@ -1,0 +1,6 @@
+*.py[co]
+*.sw[op]
+/.scss-cache
+/.*_pid
+/.ropeproject
+/test
